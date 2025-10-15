@@ -1,4 +1,4 @@
 # demowork
 Its a demowork 
 <br>
-learning phase
+learning phase(train)
